@@ -1,0 +1,14 @@
+{
+  "hosts": [
+    {
+      "name": "Google DNS",
+      "address": "8.8.8.8",
+      "ports": [53, 443]
+    },
+    {
+      "name": "Localhost / Debian",
+      "address": "127.0.0.1",
+      "ports": [22]
+    }
+  ]
+}

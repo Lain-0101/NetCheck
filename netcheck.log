@@ -1,0 +1,16 @@
+[2026-11-10 00:25:03] === Iniciando varredura NetCheck ===
+[2026-11-10 00:25:03] Host: Google DNS (8.8.8.8) -> Ping: ONLINE 🟢
+[2026-11-10 00:25:03]    ↳ Porta 53: ABERTA 🔓
+[2026-11-10 00:25:04]    ↳ Porta 443: ABERTA 🔓
+[2026-11-10 00:25:04] Host: Localhost / Debian (127.0.0.1) -> Ping: ONLINE 🟢
+[2026-11-10 00:25:04]    ↳ Porta 22: FECHADA 🔒
+[2026-11-10 00:25:04] === Varredura finalizada ===
+
+[2026-11-18 23:14:00] === Iniciando varredura NetCheck ===
+[2026-11-18 23:14:00] Host: Google DNS (8.8.8.8) -> Ping: ONLINE 🟢
+[2026-11-18 23:14:00]    ↳ Porta 53: ABERTA 🔓
+[2026-11-18 23:14:00]    ↳ Porta 443: ABERTA 🔓
+[2026-11-18 23:14:00] Host: Localhost / Debian (127.0.0.1) -> Ping: ONLINE 🟢
+[2026-11-18 23:14:00]    ↳ Porta 22: FECHADA 🔒
+[2026-11-18 23:14:00] === Varredura finalizada ===
+
